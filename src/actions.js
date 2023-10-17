@@ -1,0 +1,6 @@
+export const INCREASE = "INCREASE"
+export const DECREASE = "DECREASE"
+export const REMOVE_ALL = "REMOVE_ALL"
+export const DELETE = "DELETE"
+export const DISPLAY_ITEMS = "DISPLAY_ITEMS"
+export const LOADING = "LOADING"
