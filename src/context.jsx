@@ -1,5 +1,4 @@
 import { createContext, useContext, useEffect, useReducer } from "react";
-import cartItems from "./data";
 import{reducer} from "./reducer"
 import { DECREASE, DELETE, DISPLAY_ITEMS, INCREASE, LOADING, REMOVE_ALL } from "./actions";
 import { money } from "./utils";
